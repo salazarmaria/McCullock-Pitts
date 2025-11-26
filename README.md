@@ -20,9 +20,9 @@ Los proyectos están clasificados según la arquitectura fundamental de Red Neur
 
 ### 1. Perceptrón Multicapa (MLP)
 
-El **MLP** (**M**ultilayer **P**erceptron) es la arquitectura de red neuronal **fundamental** del *Deep Learning*. Es una red **Feedforward** que utiliza múltiples capas ocultas para procesar información.
+El **MLP** (**M**ultilayer **P**erceptron) es la arquitectura de red neuronal **fundamental** 
 
-Su característica clave es que, gracias a sus neuronas con **funciones de activación no lineales**, puede aprender a resolver problemas complejos que no son linealmente separables (como el XOR). Es el modelo estándar y más eficiente para tareas de **Clasificación** y **Regresión** con **datos tabulares** o estáticos. 
+Gracias a sus neuronas con **funciones de activación no lineales**, puede aprender a resolver problemas complejos que no son linealmente separables (como el XOR). Es el modelo estándar y más eficiente para tareas de **Clasificación** y **Regresión** con **datos tabulares** o estáticos. 
 
 **Trabajos de MLP**
 
@@ -40,7 +40,7 @@ Las **CNNs** son el estándar de oro para el procesamiento de imágenes. Utiliza
 
 * **Clasificación_de_dígitos:** Implementación de una CNN para la tarea fundamental de reconocimiento de dígitos escritos a mano.
 * **Clasificación_de_Ropa:** Aplicación de la CNN para clasificar imágenes de prendas de vestir, demostrando la escalabilidad de la arquitectura.
-* 
+
 ### 3. Redes Neuronales Recurrentes (RNN)
 
 Las **RNNs** se especializan en el manejo de **datos secuenciales**. Tienen una "memoria" que les permite que la salida en un momento dependa de entradas y cálculos previos en la secuencia, siendo esenciales para predecir series de tiempo o analizar lenguaje.
