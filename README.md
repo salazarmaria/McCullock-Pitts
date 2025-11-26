@@ -1,6 +1,8 @@
-# Notas-de-IA: Proyectos y Prácticas de Inteligencia Artificial (Análisis y Comentarios)
+# Notas-de-IA
 
-Este repositorio contiene todas mis actividades y ejercicios desarrollados durante la materia de **Inteligencia Artificial**. El valor de este archivo reside en los **comentarios, anotaciones y explicaciones detalladas** que se agregaron a los cuadernos de código base para asegurar la comprensión profunda de cada modelo.
+> Este repositorio contiene todas las actividades realizadas durante el semestre
+
+## Trabajos realizados en la clase de Inteligencia Artificial   
 
 ## Modelos de Redes Neuronales
 
@@ -50,3 +52,5 @@ Las **RNNs** se especializan en el manejo de **datos secuenciales**. Tienen una 
 
 
 Cada carpeta contiene su cuaderno Colab con **gráficos, código y comentarios de estudio** que documentan el proceso.
+
+
