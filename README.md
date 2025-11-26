@@ -40,7 +40,7 @@ Las **CNNs** son el estándar de oro para el procesamiento de imágenes. Utiliza
 
 * **Clasificación_de_dígitos:** Implementación de una CNN para la tarea fundamental de reconocimiento de dígitos escritos a mano.
 * **Clasificación_de_Ropa:** Aplicación de la CNN para clasificar imágenes de prendas de vestir, demostrando la escalabilidad de la arquitectura.
-* 
+
 ### 3. Redes Neuronales Recurrentes (RNN)
 
 Las **RNNs** se especializan en el manejo de **datos secuenciales**. Tienen una "memoria" que les permite que la salida en un momento dependa de entradas y cálculos previos en la secuencia, siendo esenciales para predecir series de tiempo o analizar lenguaje.
