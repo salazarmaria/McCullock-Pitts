@@ -8,9 +8,9 @@
 
 Una **Red Neuronal** es un modelo de cómputo inspirado en el funcionamiento del cerebro, diseñado para reconocer patrones complejos, clasificar información y hacer predicciones. Estos modelos aprenden ajustando las conexiones (pesos) entre sus nodos (neuronas).
 
-## Contenido del Repositorio: Proyectos de IA por Arquitectura
+## Contenido del Repositorio
 
-Los proyectos están clasificados según la arquitectura fundamental de Red Neuronal implementada.
+Los proyectos están clasificados según la arquitectura fundamental de Red Neuronal 
 
 | Abreviatura | Nombre Completo | Mejor Uso Demostrado |
 | :---: | :--- | :--- |
